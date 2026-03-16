@@ -1,72 +1,100 @@
-🍽️ Restaurant Website
+🍷 Restaurant Website
 
-A modern and responsive restaurant website built with HTML, CSS, and JavaScript.
-The project demonstrates a clean UI design, responsive layout, and basic front-end development practices.
+A modern, responsive restaurant website built using HTML, CSS, and JavaScript.
+The project focuses on clean design, responsive layouts, and an intuitive user experience.
 
-📖 About the Project
+This repository demonstrates front-end development practices such as semantic HTML structure, modular styling, and responsive UI design.
 
-This project represents a restaurant landing page that provides visitors with essential information such as the menu, restaurant story, gallery, and contact details.
+🧾 Project Overview
 
-The main goal of this project was to practice frontend development, improve responsive layout skills, and create a user-friendly interface.
+The restaurant website provides visitors with essential information about the restaurant, including:
 
-✨ Features
+restaurant concept and story
 
-Responsive design for desktop, tablet, and mobile devices
+menu presentation
 
-Modern and clean UI
+photo gallery
 
-Restaurant menu section
+reservation/contact section
 
-Image gallery
+The goal of this project is to build a clean and user-friendly landing page that works across all devices.
 
-Contact information and location
+🔧 Tech Stack
+Technology	Description
+HTML5	Semantic page structure
+CSS3	Styling and layout
+JavaScript	Basic interactivity
+Flexbox / Grid	Responsive layouts
+Git	Version control
+🎯 Key Features
 
-Smooth navigation between sections
+✅ Fully responsive layout
+✅ Modern and minimal UI design
+✅ Interactive navigation
+✅ Menu section with structured layout
+✅ Image gallery section
+✅ Contact and location information
 
-🛠️ Technologies Used
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Flexbox / Grid
-
-Responsive Design
-
-📂 Project Structure
-restaurant-website
+📁 Project Structure
+restaurant-website/
 │
 ├── index.html
-├── style.css
-├── script.js
-└── images
-🚀 Getting Started
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── assets/
+│   ├── images
+│   └── icons
+│
+└── README.md
+⚙️ Installation
 
-Clone the repository
+Clone the repository:
 
 git clone https://github.com/your-username/restaurant-website.git
 
-Open the project folder
+Open the project:
 
-Run index.html in your browser
+cd restaurant-website
 
-📸 Preview
+Run the project by opening:
 
-Add screenshots of the website here.
+index.html
 
-![Website Preview](img/screen-1.jpg)
-🎯 Learning Goals
+in your browser.
 
-Practice semantic HTML structure
+📱 Responsive Design
 
-Improve CSS layout skills
+The website is optimized for:
 
-Work with responsive design
+💻 Desktop
 
-Organize a simple front-end project
+📱 Mobile devices
+
+📟 Tablets
+
+Using Flexbox and CSS Grid to ensure proper layout adaptation across screen sizes.
+
+🖼️ Preview
+
+Add screenshots of the project here.
+
+assets/images/preview.png
+🚀 Future Improvements
+
+Online table reservation form
+
+Integration with Google Maps
+
+Menu filtering with JavaScript
+
+Animation effects
+
+Deployment on GitHub Pages
 
 👨‍💻 Author
 
-Created as a frontend practice project.
+Frontend practice project created to improve UI development, layout structuring, and responsive design skills.
